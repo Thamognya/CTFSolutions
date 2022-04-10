@@ -6,7 +6,7 @@ These are my solutions to CTF competitions.
 
 These are the CTF websites that I have solved questions from.
 
-- [PicoCtf](https://picoctf.org/)
+- [PicoCtf](https://picoctf.org/) ; Account: [ThamognyaKodi](https://play.picoctf.org/users/ThamognyaKodi)
 
 #Licenses
 
